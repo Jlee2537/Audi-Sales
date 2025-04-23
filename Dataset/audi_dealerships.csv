@@ -1,0 +1,11 @@
+dealership_id,dealership_name,region,city,state,opening_date
+1,Audi Manhattan,Northeast,New York,NY,6/15/2010
+2,Audi Queens,Northeast,Flushing,NY,3/22/2012
+3,Audi Great Neck,Northeast,Great Neck,NY,9/10/2011
+4,Audi Lynbrook,Northeast,Lynbrook,NY,5/8/2013
+5,Audi Brooklyn,Northeast,Brooklyn,NY,11/30/2015
+6,Audi Bronx,Northeast,Bronx,NY,7/19/2014
+7,Audi Staten Island,Northeast,Staten Island,NY,2/17/2016
+8,Audi White Plains,Northeast,White Plains,NY,12/1/2011
+9,Audi Yonkers,Northeast,Yonkers,NY,8/25/2013
+10,Audi New Rochelle,Northeast,New Rochelle,NY,4/10/2012
