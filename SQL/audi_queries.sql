@@ -60,7 +60,7 @@ FROM(
 	FROM dealerships d
 	JOIN sales s
 		ON d.dealership_id = s.dealership_id
-		GROUP BY dealership_name, `year`) sales_diffdealerships
+		GROUP BY dealership_name, `year`) sales_diff
    ;
 
 -- Models with Highest Profit Margin
