@@ -35,3 +35,6 @@ When comparing dealership revenues, the top three performers were:
 1. Audi Lynbrook – $415.3M
 2. Audi Staten Island – $415M
 3. Audi Brooklyn – $414.7M
+
+Several dealerships, including Audi Manhattan and Audi Lynbrook, rebounded with strong sales growth in the latest year after previous declines.
+Others like Audi Bronx and Audi Brooklyn showed steady growth across all years, suggesting consistent market performance.
